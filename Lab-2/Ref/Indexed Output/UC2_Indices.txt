@@ -1,0 +1,1 @@
+Maintain Hospital Listing Precondition administrator authenticated himself herself iTrust Medical Records system Main Flow administrator chooses maintain hospital listing storing 1 hospital ID number hospital 2 up 30 alphanumeric characters giving name hospital 3 address hospital

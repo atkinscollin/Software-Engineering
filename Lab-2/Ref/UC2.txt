@@ -1,0 +1,10 @@
+Maintain a Hospital Listing
+
+Precondition:
+
+The administrator has authenticated himself or herself in the iTrust Medical Records system.
+
+Main Flow:
+
+An administrator chooses to maintain the hospital listing by storing (1) hospital ID number for the hospital,
+(2) up to 30 alphanumeric characters giving the name of the hospital, and (3) an address for the hospital.

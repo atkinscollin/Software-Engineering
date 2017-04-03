@@ -1,0 +1,5 @@
+LHCP: Licensed Health Care Professional.
+ER: Emergency Responder.
+LT: Laboratory Technician.
+PHA: Public Health Agent.
+OB/GYN: Obstetrics and Gynaecology.

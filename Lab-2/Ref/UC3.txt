@@ -1,0 +1,20 @@
+View Physician Satisfaction Survey Results
+
+Precondition:
+
+The iTrust user has authenticated himself or herself in the iTrust Medical Record system.
+
+Main Flow:
+
+A user chooses to view physician satisfaction survey results. The user provides a zip code or a hospital code and 
+an (optional) physician type (from a pull-down list: general, surgeon, heart specialist, pediatrician, OB/GYN). The 
+patient is provided with the following for each physician of that type that practices in a zip code that match the first 
+three digits of the provided zip code:
+
+  o Name
+  o Address
+  o Average number of minutes patients wait in waiting room
+  o Average number of minutes patients wait in examination room prior to seeing physician
+  o Average office visit satisfaction
+  o Average satisfaction with treatment/information
+  o Percentage of office visits for which satisfaction information is available
